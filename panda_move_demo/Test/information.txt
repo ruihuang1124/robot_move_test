@@ -1,1 +1,3 @@
 This is a text file to test the basic usage of github
+
+冲突测试
