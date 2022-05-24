@@ -1,1 +1,4 @@
 This is a text file to test the basic usage of github
+conflict test
+
+冲突测试
